@@ -2,7 +2,7 @@
 
 ![Screenshot_2](https://github.com/user-attachments/assets/3161490b-b089-4a33-bcd5-2fa37f2cce1f)
 
-### O Quiz de Emagrecimento é um projeto interativo desenvolvido para ajudar as pessoas a aprenderem sobre hábitos saudáveis, nutrição e exercícios de forma divertida e educativa. O quiz consiste em uma série de perguntas com múltipla escolha, onde o usuário pode testar seus conhecimentos e receber feedback ao final.
+O Quiz de Emagrecimento é um projeto interativo desenvolvido para ajudar as pessoas a aprenderem sobre hábitos saudáveis, nutrição e exercícios de forma divertida e educativa. O quiz consiste em uma série de perguntas com múltipla escolha, onde o usuário pode testar seus conhecimentos e receber feedback ao final.
 
 ### Funcionalidades
 Perguntas Interativas:
