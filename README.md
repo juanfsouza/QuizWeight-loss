@@ -52,7 +52,7 @@ Passos para Execução
 ### Clone o repositório:
 
 
-git clone https://github.com/seu-usuario/quiz-emagrecimento.git
+git clone https://github.com/juanfsouza/QuizWeight-loss.git
 cd quiz-emagrecimento
 Instale as dependências:
 
